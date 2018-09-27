@@ -1,0 +1,35 @@
+dependencies: \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.m \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Target\ Support\ Files/Protobuf/Protobuf-prefix.pch \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers_RuntimeSupport.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBProtocolBuffers.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBBootstrap.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBArray.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBRuntimeTypes.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBCodedInputStream.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBCodedOutputStream.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBWireFormat.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBDescriptor.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBDictionary.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBExtensionRegistry.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBMessage.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBRootObject.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBUnknownField.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBUnknownFieldSet.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBUtilities.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBWellKnownTypes.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Any.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Duration.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Timestamp.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Api.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Empty.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/FieldMask.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/SourceContext.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Struct.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Type.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/google/protobuf/Wrappers.pbobjc.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBDescriptor_PackagePrivate.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBExtensionInternals.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBMessage_PackagePrivate.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBRootObject_PackagePrivate.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Protobuf/objectivec/GPBUtilities_PackagePrivate.h

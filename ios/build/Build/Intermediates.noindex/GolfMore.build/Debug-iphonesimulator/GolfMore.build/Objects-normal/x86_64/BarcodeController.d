@@ -1,0 +1,20 @@
+dependencies: \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/GolfMore/BarcodeController.m \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/GolfMore/BarcodeController.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/Pods/Firebase/Core/Sources/module.modulemap \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/DynamsoftBarcodeReader.framework/Modules/module.modulemap \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/DynamsoftBarcodeReader.framework/Headers/BarcodeReader.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/DynamsoftBarcodeReader.framework/Headers/ReadResult.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/DynamsoftBarcodeReader.framework/Headers/Barcode.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/DynamsoftBarcodeReader.framework/Headers/DynamsoftBarcodeReader.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/GolfMore/DbrManager.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/GolfMore/barcodeViewController/BarcodeViewController.h \
+  /Volumes/MACDATA/work/ReactNative/GolfMore/project/v2/ios/GolfMore/AppDelegate.h

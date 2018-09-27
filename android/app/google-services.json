@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "46436459689",
+    "firebase_url": "https://golfmore-2a302.firebaseio.com",
+    "project_id": "golfmore-2a302",
+    "storage_bucket": "golfmore-2a302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46436459689:android:9a79f479e860a3f2",
+        "android_client_info": {
+          "package_name": "com.golfmore.refactoring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46436459689-him2l8eg3142vf2f8069gvbird0j8tjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfLb7rDppU6GORRM4DMZsqDiD9wNcuR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
